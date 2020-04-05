@@ -130,3 +130,5 @@ dmypy.json
 
 **/.DS_Store
 template.md
+input/ignore
+.ipynb_checkpoints

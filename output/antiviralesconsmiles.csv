@@ -1,0 +1,82 @@
+,nombre,código,SMILES
+0,['Emtricitabine'],['DB00879'],C1C(OC(S1)CO)N2C=C(C(=NC2=O)N)F
+1,['Zidovudine'],['DB00495'],CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)N=[N+]=[N-]
+2,['Darunavir'],['DB01264'],CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N
+3,['Nevirapine'],['DB00238'],CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4
+4,['Valganciclovir'],['DB01610'],CC(C)C(C(=O)OCC(CO)OCN1C=NC2=C1N=C(NC2=O)N)N
+5,['Nelfinavir'],['DB00220'],CC1=C(C=CC=C1O)C(=O)NC(CSC2=CC=CC=C2)C(CN3CC4CCCCC4CC3C(=O)NC(C)(C)C)O
+6,['Foscarnet'],['DB00529'],C(=O)(O)P(=O)(O)O
+7,['Sinecatechins'],['DB01266'],
+8,['Boceprevir'],['DB08873'],CC1(C2C1C(N(C2)C(=O)C(C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C
+9,['Inosine pranobex'],['DB13156'],CC(CN(C)C)O.CC(CN(C)C)O.CC(CN(C)C)O.CC(=O)NC1=CC=C(C=C1)C(=O)O.CC(=O)NC1=CC=C(C=C1)C(=O)O.CC(=O)NC1=CC=C(C=C1)C(=O)O.C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)CO)O)O
+10,['Dolutegravir'],['DB08930'],CC1CCOC2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O
+11,['Abacavir'],['DB01048'],C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)C4CC(C=C4)CO
+12,['Ribavirin'],['DB00811'],C1=NC(=NN1C2C(C(C(O2)CO)O)O)C(=O)N
+13,['Peginterferon alfa-2b'],['DB00022'],
+14,['Edoxudine'],['DB13421'],CCC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+15,"['Interferon alfa-2a, Recombinant']",['DB00034'],
+16,['Interferon beta-1b'],['DB00068'],
+17,['Interferon alfa-2b'],['DB00105'],CCCN(CCOC1=C(C=C(C=C1Cl)Cl)Cl)C(=O)N2C=CN=C2.C(S(=O)(=O)[O-])(I)I.[Na+]
+18,['Elvitegravir'],['DB09101'],CC(C)C(CO)N1C=C(C(=O)C2=C1C=C(C(=C2)CC3=C(C(=CC=C3)Cl)F)OC)C(=O)O
+19,['Amantadine'],['DB00915'],C1C2CC3CC1CC(C2)(C3)N
+20,['Clove oil'],['DB11338'],
+21,['Vidarabine'],['DB00194'],C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O)N
+22,['Daclatasvir'],['DB09102'],CC(C)C(C(=O)N1CCCC1C2=NC=C(N2)C3=CC=C(C=C3)C4=CC=C(C=C4)C5=CN=C(N5)C6CCCN6C(=O)C(C(C)C)NC(=O)OC)NC(=O)OC
+23,['Tenofovir alafenamide'],['DB09299'],CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OC3=CC=CC=C3
+24,['Trifluridine'],['DB00432'],C1C(C(OC1N2C=C(C(=O)NC2=O)C(F)(F)F)CO)O
+25,['Porfimer sodium'],['DB00707'],CC1=C(C2=CC3=NC(=CC4=NC(=CC5=C(C(=C(N5)C=C1N2)C(C)O)C)C(=C4C)C(C)OC(C)C6=C(C7=CC8=C(C(=C(N8)C=C9C(=C(C(=N9)C=C1C(=C(C(=N1)C=C6N7)C)CCC(=O)O)CCC(=O)O)C)C)C(C)O)C)C(=C3CCC(=O)O)C)CCC(=O)O
+26,['Zanamivir'],['DB00558'],CC(=O)NC1C(C=C(OC1C(C(CO)O)O)C(=O)O)N=C(N)N
+27,['Ritonavir'],['DB00503'],CC(C)C1=NC(=CS1)CN(C)C(=O)NC(C(C)C)C(=O)NC(CC2=CC=CC=C2)CC(C(CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O
+28,['Acyclovir'],['DB00787'],C1=NC2=C(N1COCCO)N=C(NC2=O)N
+29,['Ganciclovir'],['DB01004'],C1=NC2=C(N1COC(CO)CO)N=C(NC2=O)N
+30,['Interferon gamma-1b'],['DB00033'],
+31,['Ibalizumab'],['DB12698'],
+32,['Podofilox'],['DB01179'],COC1=CC(=CC(=C1OC)OC)C2C3C(COC3=O)C(C4=CC5=C(C=C24)OCO5)O
+33,['Entecavir'],['DB00442'],C=C1C(CC(C1CO)O)N2C=NC3=C2N=C(NC3=O)N
+34,['Raltegravir'],['DB06817'],CC1=NN=C(O1)C(=O)NC(C)(C)C2=NC(=C(C(=O)N2C)O)C(=O)NCC3=CC=C(C=C3)F
+35,['Doravirine'],['DB12301'],CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F
+36,['Pibrentasvir'],['DB13878'],CC(C(C(=O)N1CCCC1C2=NC3=C(N2)C=C(C(=C3)F)C4CCC(N4C5=CC(=C(C(=C5)F)N6CCC(CC6)C7=CC=C(C=C7)F)F)C8=CC9=C(C=C8F)N=C(N9)C1CCCN1C(=O)C(C(C)OC)NC(=O)OC)NC(=O)OC)OC
+37,['Fosamprenavir'],['DB01319'],CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)OP(=O)(O)O)S(=O)(=O)C3=CC=C(C=C3)N
+38,['Avatrombopag'],['DB11995'],C1CCC(CC1)N2CCN(CC2)C3=C(N=C(S3)NC(=O)C4=CC(=C(N=C4)N5CCC(CC5)C(=O)O)Cl)C6=CC(=CS6)Cl
+39,['Glecaprevir'],['DB13879'],CC1(CC1)S(=O)(=O)NC(=O)C2(CC2C(F)F)NC(=O)C3CC4CN3C(=O)C(NC(=O)OC5CCCC5OCC=CC(C6=NC7=CC=CC=C7N=C6O4)(F)F)C(C)(C)C
+40,['Tipranavir'],['DB00932'],CCCC1(CC(=C(C(=O)O1)C(CC)C2=CC(=CC=C2)NS(=O)(=O)C3=NC=C(C=C3)C(F)(F)F)O)CCC4=CC=CC=C4
+41,['Etravirine'],['DB06414'],CC1=CC(=CC(=C1OC2=NC(=NC(=C2Br)N)NC3=CC=C(C=C3)C#N)C)C#N
+42,['Amprenavir'],['DB00701'],CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2CCOC2)O)S(=O)(=O)C3=CC=C(C=C3)N
+43,['Letermovir'],['DB12070'],COC1=C(C=C(C=C1)C(F)(F)F)N2C(C3=C(C(=CC=C3)F)N=C2N4CCN(CC4)C5=CC(=CC=C5)OC)CC(=O)O
+44,['Favipiravir'],['DB12466'],C1=C(N=C(C(=O)N1)C(=O)N)F
+45,['Idoxuridine'],['DB00249'],C1C(C(OC1N2C=C(C(=O)NC2=O)I)CO)O
+46,['Peginterferon alfa-2a'],['DB00008'],
+47,['Rimantadine'],['DB00478'],CC(C12CC3CC(C1)CC(C3)C2)N
+48,['Telaprevir'],['DB05521'],CCCC(C(=O)C(=O)NC1CC1)NC(=O)C2C3CCCC3CN2C(=O)C(C(C)(C)C)NC(=O)C(C4CCCCC4)NC(=O)C5=NC=CN=C5
+49,['Dasabuvir'],['DB09183'],CC(C)(C)C1=CC(=CC(=C1OC)C2=CC3=C(C=C2)C=C(C=C3)NS(=O)(=O)C)N4C=CC(=O)NC4=O
+50,['Tromantadine'],['DB13288'],CN(C)CCOCC(=O)NC12CC3CC(C1)CC(C3)C2
+51,['Grazoprevir'],['DB11575'],CC(C)(C)C1C(=O)N2CC(CC2C(=O)NC3(CC3C=C)C(=O)NS(=O)(=O)C4CC4)OC5=NC6=C(C=CC(=C6)OC)N=C5CCCCCC7CC7OC(=O)N1
+52,['Docosanol'],['DB00632'],CCCCCCCCCCCCCCCCCCCCCCO
+53,['Penciclovir'],['DB00299'],C1=NC2=C(N1CCC(CO)CO)N=C(NC2=O)N
+54,['Interferon beta-1a'],['DB00060'],
+55,['Glycyrrhizic acid'],['DB13751'],CC1(C2CCC3(C(C2(CCC1OC4C(C(C(C(O4)C(=O)O)O)O)OC5C(C(C(C(O5)C(=O)O)O)O)O)C)C(=O)C=C6C3(CCC7(C6CC(CC7)(C)C(=O)O)C)C)C)C
+56,['Velpatasvir'],['DB11613'],CC1CCC(N1C(=O)C(C(C)C)NC(=O)OC)C2=NC3=C(N2)C=CC4=CC5=C(C=C43)OCC6=C5C=CC(=C6)C7=CN=C(N7)C8CC(CN8C(=O)C(C9=CC=CC=C9)NC(=O)OC)COC
+57,['Tenofovir disoproxil'],['DB00300'],CC(C)OC(=O)OCOP(=O)(COC(C)CN1C=NC2=C(N=CN=C21)N)OCOC(=O)OC(C)C
+58,['Voxilaprevir'],['DB12026'],CCC1C2CN(C1C(=O)NC3(CC3C(F)F)C(=O)NS(=O)(=O)C4(CC4)C)C(=O)C(NC(=O)OC5CC5CCCCC(C6=NC7=C(C=C(C=C7)OC)N=C6O2)(F)F)C(C)(C)C
+59,['Asunaprevir'],['DB11586'],CC(C)(C)C(C(=O)N1CC(CC1C(=O)NC2(CC2C=C)C(=O)NS(=O)(=O)C3CC3)OC4=NC=C(C5=C4C=C(C=C5)Cl)OC)NC(=O)OC(C)(C)C
+60,['Cidofovir'],['DB00369'],C1=CN(C(=O)N=C1N)CC(CO)OCP(=O)(O)O
+61,['Cytarabine'],['DB00987'],C1=CN(C(=O)N=C1N)C2C(C(C(O2)CO)O)O
+62,['Interferon alfacon-1'],['DB00069'],
+63,['Fomivirsen'],['DB06759'],
+64,['Valaciclovir'],['DB00577'],CC(C)C(C(=O)OCCOCN1C=NC2=C1N=C(NC2=O)N)N
+65,['Peramivir'],['DB06614'],CCC(CC)C(C1C(CC(C1O)C(=O)O)N=C(N)N)NC(=O)C
+66,['Efavirenz'],['DB00625'],C1CC1C#CC2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F
+67,['Brivudine'],['DB03312'],C1C(C(OC1N2C=C(C(=O)NC2=O)C=CBr)CO)O
+68,['Telbivudine'],['DB01265'],CC1=CN(C(=O)NC1=O)C2CC(C(O2)CO)O
+69,['Nitazoxanide'],['DB00507'],CC(=O)OC1=CC=CC=C1C(=O)NC2=NC=C(S2)[N+](=O)[O-]
+70,['Maraviroc'],['DB04835'],CC1=NN=C(N1C2CC3CCC(C2)N3CCC(C4=CC=CC=C4)NC(=O)C5CCC(CC5)(F)F)C(C)C
+71,['Stavudine'],['DB00649'],CC1=CN(C(=O)NC1=O)C2C=CC(O2)CO
+72,['Paritaprevir'],['DB09297'],CC1=CN=C(C=N1)C(=O)NC2CCCCCC=CC3CC3(NC(=O)C4CC(CN4C2=O)OC5=NC6=CC=CC=C6C7=CC=CC=C75)C(=O)NS(=O)(=O)C8CC8
+73,['Enfuvirtide'],['DB00109'],
+74,['Erythropoietin'],['DB00016'],CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=N[N-]4)CO)Cl.[K+]
+75,['Indinavir'],['DB00224'],CC(C)(C)NC(=O)C1CN(CCN1CC(CC(CC2=CC=CC=C2)C(=O)NC3C(CC4=CC=CC=C34)O)O)CC5=CN=CC=C5
+76,['Lamivudine'],['DB00709'],C1C(OC(S1)CO)N2C=CC(=NC2=O)N
+77,['Atazanavir'],['DB01072'],CC(C)(C)C(C(=O)NC(CC1=CC=CC=C1)C(CN(CC2=CC=C(C=C2)C3=CC=CC=N3)NC(=O)C(C(C)(C)C)NC(=O)OC)O)NC(=O)OC
+78,['Rilpivirine'],['DB08864'],CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)C=CC#N
+79,['Delavirdine'],['DB00705'],CC(C)NC1=C(N=CC=C1)N2CCN(CC2)C(=O)C3=CC4=C(N3)C=CC(=C4)NS(=O)(=O)C
+80,['Saquinavir'],['DB01232'],CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O
