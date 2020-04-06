@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/cover.png" alt="Fighting COVID-19">
+  <img width="950" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/cover.png" alt="Fighting COVID-19">
 </p>
 
 # Prediction of coronavirus-binding pharmaceutical molecules using machine learning 💊 | 🦠
@@ -17,7 +17,7 @@ The whole scientific community is aiming to develop different strategies to stop
 A big problem in the pharma industry is to know whether a specific molecule can bind to a protein. Drug molecules are designed in such a way that its union to a specific viral protein change its structure, therefore leaving them inactive.
 
 <p align="center">
-  <img width="800" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/cover.png" alt="proteins">
+  <img width="800" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/proteins.jpg" alt="proteins">
 </p>
 
 AI has a lot to offer in this field since the regular process of drug-screening is enduring and costful. Using an already trained neural network, we predicted the binding degree of more than 80 anti-viraul drugs to the main proteins of the virus.
