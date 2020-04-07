@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="950" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/cover.png" alt="Fighting COVID-19">
+  <img width="950" height="325" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/cover.png" alt="Fighting COVID-19">
 </p>
 
 # Prediction of coronavirus-binding pharmaceutical molecules using machine learning 💊 | 🦠
@@ -17,10 +17,10 @@ The whole scientific community is aiming to develop different strategies to stop
 A big problem in the pharma industry is to know whether a specific molecule can bind to a protein. Drug molecules are designed in such a way that its union to a specific viral protein change its structure, therefore leaving them inactive.
 
 <p align="center">
-  <img width="600" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/proteins.jpg" alt="proteins">
+  <img width="500" height="300" src="https://github.com/breogann/Fighting-COVID-19-through-AI/blob/master/Images/proteins.jpg" alt="proteins">
 </p>
 
-AI has a lot to offer in this field since the regular process of drug-screening is enduring and costful. Using an already trained neural network, we predicted the binding degree of more than 80 anti-viraul drugs to the main proteins of the virus.
+AI has a lot to offer in this field since the regular process of drug-screening is enduring and costful. Using an already trained neural network, we predicted the binding degree of more than 80 anti-viral drugs to the main proteins of the virus.
 
 Under this paradigm, drug synthetization is based on four criteria: 
 
@@ -47,7 +47,7 @@ ILGSALLEDEFTPFDVVRQCSGVTFQ
 - The list of anti-viral drugs: Drugs can have different structures and compositions, so the notation is different. They are usually represented using the __SMILES__ notation:
 
 ``````
-CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N'
+CC(C)CN(CC(C(CC1=CC=CC=C1)NC(=O)OC2COC3C2CCO3)O)S(=O)(=O)C4=CC=C(C=C4)N
 ``````
 
 - The degree of binding affinity of the two previous data points: which depends on key pharmakinetic aspects of the molecules and is given by the neural network.
